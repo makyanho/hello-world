@@ -1,3 +1,3 @@
 # hello-world
 tutorial
-what did you mean
+This is how Github works!
